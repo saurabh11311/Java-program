@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "My Program_93722b6"
+    },
+    {
+      "type": "java",
+      "name": "Loop",
+      "request": "launch",
+      "mainClass": "Loop",
+      "projectName": "My Program_93722b6"
+    },
+    {
+      "type": "java",
+      "name": "condition",
+      "request": "launch",
+      "mainClass": "condition",
+      "projectName": "My Program_93722b6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/saura/OneDrive/Desktop/My Program",
+      "program": "c:/Users/saura/OneDrive/Desktop/My Program/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
