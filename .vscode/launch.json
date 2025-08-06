@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConflictFreeTeam",
+            "request": "launch",
+            "mainClass": "ConflictFreeTeam",
+            "projectName": "Java program_760eb7cc"
+        },
+        {
+            "type": "java",
+            "name": "XfromY",
+            "request": "launch",
+            "mainClass": "XfromY",
+            "projectName": "Java program_760eb7cc"
+        },
+        {
+            "type": "java",
+            "name": "BoardGamesSolver",
+            "request": "launch",
+            "mainClass": "BoardGamesSolver",
+            "projectName": "Java program_760eb7cc"
+        },
+        {
+            "type": "java",
+            "name": "StackClass",
+            "request": "launch",
+            "mainClass": "StackClass",
+            "projectName": "Java program_760eb7cc"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java program_760eb7cc"
+        },
+        {
+            "type": "java",
             "name": "Bits",
             "request": "launch",
             "mainClass": "Bits",
